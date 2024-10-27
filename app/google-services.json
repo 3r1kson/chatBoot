@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442833295859",
+    "project_id": "kotlin-chatboot",
+    "storage_bucket": "kotlin-chatboot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442833295859:android:3d05eb0e474555d184da86",
+        "android_client_info": {
+          "package_name": "com.example.chatbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlz2WRsPeRLCr_SaESqrP8fo9nONHIVRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
